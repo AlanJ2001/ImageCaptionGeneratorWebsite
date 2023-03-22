@@ -10,4 +10,6 @@ run: streamlit run "web_app.py"
 
 # website preview
 
-![3637013_c675de7705](https://user-images.githubusercontent.com/77545869/226940405-1f52e4a2-772b-43da-bea9-9c8137e0bcc4.jpg)
+https://user-images.githubusercontent.com/77545869/226940583-3c7730bb-cef4-452f-9886-9c30e889cb7d.mp4
+
+
