@@ -7,3 +7,7 @@ To run the website download the model file from this link https://drive.google.c
 place in the same directory as web_app.py
 
 run: streamlit run "web_app.py"
+
+# website preview
+
+![3637013_c675de7705](https://user-images.githubusercontent.com/77545869/226940405-1f52e4a2-772b-43da-bea9-9c8137e0bcc4.jpg)
